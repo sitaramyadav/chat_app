@@ -1,0 +1,17 @@
+input{
+	width :1500px;
+	height: 35px;
+	font-size: 100%
+}
+button{
+	width: 50px;
+	height: 30px;
+	font-size: 100%;
+	font-style: bold;
+	font-family: sans-serif;
+}
+
+.textbar {
+	position: absolute;
+	top: 800px;
+}
